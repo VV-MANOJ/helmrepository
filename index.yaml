@@ -3,7 +3,7 @@ entries:
   boo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-01-21T03:26:12.4938272Z"
+    created: "2020-01-21T14:02:27.79137057Z"
     description: A Helm chart for Kubernetes
     digest: 29fb0cf795145c9dbee1dba5bc6f28c34c0c092b880f08b3c5308a35cbf190f7
     name: boo
@@ -14,7 +14,7 @@ entries:
   coo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-01-21T03:26:12.49500072Z"
+    created: "2020-01-21T14:02:27.793693476Z"
     description: A Helm chart for Kubernetes
     digest: 47fbee58eafaddd03639ef63fb7d22c026d130e50bb92fab61f6e4b55dbd7ff7
     name: coo
@@ -22,4 +22,15 @@ entries:
     urls:
     - coo-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-21T03:26:12.490964703Z"
+  lifeline:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-01-21T14:02:27.79417849Z"
+    description: A Helm chart for Kubernetes
+    digest: 23d0e238851eb61e91c5e7ec06cf1d666bfc3f715ec8f09203d3543a49bb482f
+    name: lifeline
+    type: application
+    urls:
+    - lifeline-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-01-21T14:02:27.789469254Z"
